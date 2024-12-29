@@ -35,6 +35,7 @@ messages = [
             {
                 "type": "image",
                 "image": "https://static.daktilo.com/sites/1504/uploads/2023/12/25/large/elektrik-faturasi-2.jpg",
+                "image": "https://store.donanimhaber.com/49/4a/a2/494aa2f5aeb0f212ea92e8405b3fef67.jpeghtt",
             },
             {"type": "text", "text": "Elektrik faturası ne kadardır?"},
         ],
